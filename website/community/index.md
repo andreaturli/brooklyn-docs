@@ -8,6 +8,7 @@ children:
 - irc.md
 - { link: 'https://issues.apache.org/jira/browse/BROOKLYN', title: 'Bug Tracker (JIRA)' }
 - { path: how-to-contribute-docs.md }
+- { path: how-to-partecipate-gsoc.md }
 ---
 
 <div class="row">
@@ -68,6 +69,20 @@ Find us on `#brooklyncentral` on Freenode, or click below for more information.
 Want to contribute code to our project? Head over to our developer's section. Warning, bleeding edge code ahead!
 
 <div class="text-center"><a class="btn btn-warning" href="../developers/index.html" role="button">Developer's Section</a></div>
+  </div>
+</div>
+
+</div><!-- col -->
+<div class="col-md-6" markdown="1">
+
+<div class="panel panel-default">
+  <div class="panel-heading" markdown="1">
+#### [GSoC](../gsoc/)
+  </div>
+  <div class="panel-body" markdown="1">
+Google Summer of Code projects 
+
+<div class="text-center"><a class="btn btn-primary" href="../gsoc/index.html" role="button">GSoC projects</a></div>
   </div>
 </div>
 
